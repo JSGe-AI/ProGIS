@@ -88,11 +88,14 @@ Select the architecture based on your requirements:
 If you find this project useful for your research, please cite our work:
 
 ```bibtex
-@article{ge2025progis,
-  title={Progis: Prototype-guided interactive segmentation for pathological images},
-  author={Ge, Jiusong and Zhang, Di and Zhan, Yingkang and Liu, Jiashuai and Gong, Tieliang and Wu, Jialun and Crispin, Mireia and Li, Chen and Gao, Zeyu},
-  journal={IEEE Transactions on Medical Imaging},
-  year={2025},
-  publisher={IEEE}
-}
+@ARTICLE{11168941,
+  author={Ge, Jiusong and Zhang, Di and Zhan, Yingkang and Liu, Jiashuai and Gong, Tieliang and Wu, Jialun and Crispin-Ortuzar, Mireia and Li, Chen and Gao, Zeyu},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={ProGIS: Prototype-Guided Interactive Segmentation for Pathological Images}, 
+  year={2026},
+  volume={45},
+  number={3},
+  pages={881-892},
+  keywords={Image segmentation;Pathology;Prototypes;Accuracy;Training;Navigation;Germanium;Feature extraction;Tumors;Predictive models;Interactive segmentation;tissue segmentation;prototype learning;computational pathology},
+  doi={10.1109/TMI.2025.3611123}}
 
