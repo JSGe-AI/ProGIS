@@ -2,7 +2,7 @@
 
 # Progis: Prototype-guided interactive segmentation for pathological images
 
-This is the official code repository for the paper: **Progis: Prototype-guided interactive segmentation for pathological images**.
+This is the code repository for the paper: **Progis: Prototype-guided interactive segmentation for pathological images**.
 
 
 
